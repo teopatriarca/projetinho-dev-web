@@ -1,0 +1,42 @@
+#main1 {
+    background-color: lightskyblue;
+    padding: 3px 20px;
+    border-radius: 5px;
+    max-width: 1318px;
+    margin: 10px;
+    margin-left: auto;
+    margin-right: auto;
+
+}
+
+#titulo {
+    color: darkblue;
+}
+
+#relogio {
+    color: darkblue;
+    font-size: 20px;
+}
+
+.col-sm {
+    font-size: 0.60cm;
+    padding: 1rem;
+    border: 2px solid white;
+    /* margin: 2px; */
+}
+
+.form-row {
+    text-align: center;
+}
+
+#calculo {
+    background-color: #99CCFF;
+    opacity: 25%;
+    border: 2px solid black;
+}
+
+#desc {
+    background-color: #99CCFF;
+    opacity: 25%;
+    border: 2px solid black;
+}
